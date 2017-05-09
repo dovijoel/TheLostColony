@@ -1,0 +1,2 @@
+tech,air,water,power,material,population,food,size,entertainment,houses,techs,dome_cost,enter_cost,enviro_cost,fab_cost,farm_cost,house_cost,power_cost_research_cost,road_cost
+0,1100,1100,1100,1000,100,110,100,600,12,0,500,150,300,600,250,450,550,750,50
